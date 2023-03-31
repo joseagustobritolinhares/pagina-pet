@@ -1,0 +1,31 @@
+.titulo h1{
+    font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.titulo h3{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 10px;
+}
+.img1{
+    float: left;
+    width: 50%;
+    margin-left: 15px;
+}
+.img1 img{
+    width: 95%;
+    float: left;
+}
+.conteudo{
+    float: left;
+    background-color: rgb(49 41% 13%);
+}
+.conteudo p{
+    font-size: 20px;
+}
